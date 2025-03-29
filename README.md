@@ -1,2 +1,2 @@
 # pubfile
-published files
+repository of published files for my websites.
