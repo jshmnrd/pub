@@ -226,6 +226,11 @@ ul.blog-posts li span {
 /* -----------------------------------------------
    Notion-Like Callouts
 -------------------------------------------------*/
+.callout {
+    font-size:95%;
+    border-radius: 3px;
+    padding: 16px;
+}
 /* Light Mode Callouts */
 @media (prefers-color-scheme: light) {
     .grey_callout { background: rgb(241, 241, 239); }
