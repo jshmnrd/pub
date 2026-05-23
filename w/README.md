@@ -1,0 +1,1 @@
+This repository is for files associated with my website, [jshmnrd.ca](https://jshmnrd.ca/).
