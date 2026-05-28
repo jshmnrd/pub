@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>jshmnrd&#39;s blogroll on mire</title>
+  </head>
+  <body>
+    <outline text="adityatelange.in" type="rss" xmlUrl="https://adityatelange.in/index.xml"></outline>
+    <outline text="arduin.io" type="rss" xmlUrl="https://arduin.io/index.xml"></outline>
+    <outline text="jamesg.blog" type="rss" xmlUrl="https://jamesg.blog/feeds/posts.xml"></outline>
+    <outline text="jshmnrd.ca" type="rss" xmlUrl="https://jshmnrd.ca/index.xml"></outline>
+    <outline text="meadow.cafe" type="rss" xmlUrl="https://meadow.cafe/feeds/blog_rss.xml"></outline>
+    <outline text="robertbirming.com" type="rss" xmlUrl="https://robertbirming.com/feed/"></outline>
+    <outline text="zakhary.dev" type="rss" xmlUrl="https://zakhary.dev/feed.xml"></outline>
+    <outline text="toska.bearblog.dev" type="rss" xmlUrl="https://toska.bearblog.dev/feed/?type=rss"></outline>
+  </body>
+</opml>
